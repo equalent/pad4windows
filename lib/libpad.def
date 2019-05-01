@@ -1,0 +1,14 @@
+EXPORTS
+cellPadClearBuf
+cellPadEnd
+cellPadGetCapabilityInfo
+cellPadGetData
+cellPadGetInfo
+cellPadGetInfo2
+cellPadInfoPressMode
+cellPadInfoSensorMode
+cellPadInit
+cellPadSetActDirect
+cellPadSetPortSetting
+cellPadSetPressMode
+cellPadSetSensorMode
