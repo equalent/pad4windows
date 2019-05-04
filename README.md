@@ -19,7 +19,7 @@ as the name is changed.
 
  0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
-Although, Sony Interactive Entertainment (SIE) may prohibit the use of this library in a commercial game if you are not a current member of the PlayStation Partners program. You can always use DirectInput as an alternative but some DS3 features are not supported by DirectInput.
+However, Sony Interactive Entertainment (SIE) may prohibit the use of this library in a commercial game if you are not a current member of the PlayStation Partners program. You can always use DirectInput as an alternative but some DS3 features are not supported by DirectInput.
 
 # Requirements
 MSVC Toolchain is required to create the `libpad.lib` file. 
